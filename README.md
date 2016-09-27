@@ -477,7 +477,10 @@ ___
 
 ### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate)
+___
 
+### [A-Frame - A web framework for building VR experiences](https://aframe.io)
+* [aframe-redux-component](https://github.com/ngokevin/kframe/tree/master/components/redux)
 ___
 
 ### Chrome Extensions
